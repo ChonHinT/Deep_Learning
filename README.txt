@@ -1,2 +1,1 @@
-Student Name: Chon Hin Tam
-Student ID: a1863573
+Assignment for Deep Learning
